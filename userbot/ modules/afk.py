@@ -158,7 +158,7 @@ async def type_afk_is_not_true(notafk):
                 )
         COUNT_MSG = 0
         USERS = {}
-        AFKREASON = None
+        AFKREASON = Tidur
 
 
 CMD_HELP.update({
