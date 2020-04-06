@@ -44,7 +44,7 @@ from userbot.modules.upload_download import progress, humanbytes, time_formatter
 
 CARBONLANG = "auto"
 TTS_LANG = "en"
-TRT_LANG = "en"
+TRT_LANG = "id"
 
 
 @register(outgoing=True, pattern="^.crblang (.*)")
